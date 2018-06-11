@@ -1,0 +1,8 @@
+"""
+#Fitting the model using KaplanMeiler
+"""
+kmf = KaplanMeierFitter()
+kmf.fit(durations=data['Duration'],event_observed=data['Divorce'])
+
+#Plotting survival function
+kmf.survival_function_.plot(title='Survival Time of Marriages in the U.S', legend=False, linewidth=3.0)

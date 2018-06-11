@@ -1,0 +1,9 @@
+http://savvastjortjoglou.com/nfl-survival-analysis-kaplan-meier.html
+https://plot.ly/ipython-notebooks/survival-analysis-r-vs-python/#loading-data-into-python-and-r
+http://lifelines.readthedocs.io/en/latest/index.html
+http://data.princeton.edu/wws509/datasets/#divorce
+http://data.princeton.edu/wws509/datasets/divorce.dat
+http://austinrochford.com/posts/2015-10-05-bayes-survival.html
+https://gist.github.com/AustinRochford/afe6862e622c31494b2f
+https://vincentarelbundock.github.io/Rdatasets/doc/HSAUR/mastectomy.html
+

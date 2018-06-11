@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: MarriageDissolution.aux
+The style file: ieeetr.bst
+Database file #1: Bib.bib
+Warning--entry type for "Princeton2017University" isn't style-file defined
+--line 1 of file Bib.bib
+Warning--entry type for "Census2018Bureau" isn't style-file defined
+--line 9 of file Bib.bib
+Illegal end of database file---line 369 of file Bib.bib
+ : 
+ : 
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You've used 34 entries,
+            1876 wiz_defined-function locations,
+            691 strings with 9614 characters,
+and the built_in function-call counts, 10104 in all, are:
+= -- 1099
+> -- 293
+< -- 0
++ -- 112
+- -- 78
+* -- 677
+:= -- 1357
+add.period$ -- 37
+call.type$ -- 34
+change.case$ -- 31
+chr.to.int$ -- 0
+cite$ -- 34
+duplicate$ -- 516
+empty$ -- 940
+format.name$ -- 78
+if$ -- 2510
+int.to.chr$ -- 0
+int.to.str$ -- 34
+missing$ -- 35
+newline$ -- 108
+num.names$ -- 34
+pop$ -- 79
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 413
+stack$ -- 0
+substring$ -- 853
+swap$ -- 252
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 117
+width$ -- 36
+write$ -- 346
+(There was 1 error message)
