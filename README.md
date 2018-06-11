@@ -5,4 +5,4 @@ This project investigates the factors affecting the marriage dissolution in the 
 Women ages at marriage has been omitted in our study due to the lack of information on women participating in this survey, only husband ethnicity and education was taken into consideration which create one of the limitations. The study showed that Educated husbands have higher chances of marriage dissolution than the illiterate ones. Results suggest that dissolution rates are quite higher in Alabama, Mississippi and few regions of Maryland.
 
 In the U.S., marriage has always been seen as a dynamic social event. In the past several decades marriage system has experienced various changes as a result of prosperity,socioeconomic development, improvement in education, dramatic increase in age at marriage of both the sexes, changes on attitude towards marriage, love-marriages,same-sex marriages, divorce and separation has been observed.
-[Marriage Distribution]({{ site.url }}/images/Marriage_distribution.pdf)
+[Marriage Distribution]({{ https://github.com/Jagoul/Survival-Analysis-Marriage-duration-in-the-U.S./tree/master/images }}/images/Marriage_distribution.pdf)
